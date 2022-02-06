@@ -8,6 +8,7 @@ Smaller project about the marble that bounces off the walls and your goal is to 
 
 ## How to play
 * It's easy. Just click on the marble.
+* When you click on the marble, it lights up blue
 
 ## How the score works
 * The score is directly dependent on the speed of the marble.
